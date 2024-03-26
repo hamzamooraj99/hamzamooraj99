@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Mooraj</h1>
 <h3 align="center">A Computer Science and AI student at Heriot-Watt University</h3>
 
-- 🌱 I’m currently learning **Computer Vision and Object Detection**
+- 🌱 I’m currently learning **Computer Vision using OpenCV, Dlib and Tensorflow in Python**
 
 - 📫 How to reach me **hhmooraj@gmail.com**
 
