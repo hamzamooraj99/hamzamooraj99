@@ -1,3 +1,5 @@
+![Sample Image]([https://example.com/sample.jpg](https://github.com/hamzamooraj99/hamzamooraj99/blob/main/header.png?raw=true))
+
 # 💫 About Me:
 🔭 Currently working on:<br>Final-year dissertation on Crop Disease Detection using Vision-Language Models (VLMs) with AgriPath-LF16.<br>A Conversational Agent for healthcare using Retrieval-Augmented Generation (RAG).<br>A Virtual Assistant for guitar learning, integrating audio, visual, and text inputs.<br><br>👯 Looking to collaborate on:<br>Multimodal AI, Generative AI, and computer vision projects.<br>Open-source AI research, especially in deep learning and real-world applications.<br><br>🌱 Currently learning:<br>Multimodal AI fine-tuning and speech recognition.<br>Game development using Unreal Engine and Unity.<br>Hugging Face libraries and PyTorch Lightning for model training and deployment.<br><br>💬 Ask me about:<br>Deep learning, multimodal AI, and generative models.<br>AI applications in football and gaming.<br>Guitar, drums, and music tech.<br><br>📂 Latest project:<br>Thomas the Tank: The Game – A tank battle game prototype, now in my repository!
 
