@@ -50,9 +50,9 @@
 <h2 align="left">🔭 Currently Working On:</h2>
 
 <p align="left">
-  Final-year dissertation on Crop Disease Detection using Vision-Language Models (VLMs) with AgriPath-LF16.<br>
-  A Conversational Agent for healthcare using Retrieval-Augmented Generation (RAG).<br>
-  A Virtual Assistant for guitar learning, integrating audio, visual, and text inputs.
+  - Final-year dissertation on Crop Disease Detection using Vision-Language Models (VLMs) with AgriPath-LF16.<br>
+  - A Conversational Agent for healthcare using Retrieval-Augmented Generation (RAG).<br>
+  - A Virtual Assistant for guitar learning, integrating audio, visual, and text inputs.
 </p>
 
 ###
@@ -60,9 +60,9 @@
 <h2 align="left">🌱 Currently Learning:</h2>
 
 <p align="left">
-  Multimodal AI fine-tuning and speech recognition.<br>
-  Game development using Unreal Engine and Unity.<br>
-  Hugging Face libraries and PyTorch Lightning for model training and deployment.
+  - Multimodal AI fine-tuning and speech recognition.<br>
+  - Game development using Unreal Engine and Unity.<br>
+  - Hugging Face libraries and PyTorch Lightning for model training and deployment.
 </p>
 
 ###
