@@ -50,7 +50,7 @@
 <h2 align="left">🔭 Currently Working On:</h2>
 
 <p align="left">
-  - Final-year dissertation on Crop Disease Detection using Vision-Language Models (VLMs) with AgriPath-LF16.<br>
+  - Final-year dissertation on Crop Disease Detection using Vision-Language Models (VLMs) with AgriPath-LF16 (a self-compiled dataset).<br>
   - A Conversational Agent for healthcare using Retrieval-Augmented Generation (RAG).<br>
   - A Virtual Assistant for guitar learning, integrating audio, visual, and text inputs.
 </p>
