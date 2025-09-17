@@ -51,8 +51,7 @@
 
 <p align="left">
   - A Language Teaching AI Assistant<br>
-  - A Conversational Agent for healthcare using Retrieval-Augmented Generation (RAG).<br>
-  - A Virtual Assistant for guitar learning, integrating audio, visual, and text inputs.
+  - Investigating the Suitability of Vision and Language Models for Crop Disease Detection (Publication) 
 </p>
 
 ###
@@ -60,9 +59,8 @@
 <h2 align="left">🌱 Currently Learning:</h2>
 
 <p align="left">
-  - Multimodal AI fine-tuning and speech recognition.<br>
-  - Game development using Unreal Engine and Unity.<br>
-  - Hugging Face libraries and PyTorch Lightning for model training and deployment.
+  - Reinforcement Learning for Foundational Generative AI<br>
+  - Agentic Generative AI Development
 </p>
 
 ###
