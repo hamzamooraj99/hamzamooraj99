@@ -64,10 +64,3 @@
 </p>
 
 ###
-
-<h2 align="left">📊 Stats:</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzamooraj99&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true&order=2" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=hamzamooraj99&theme=chalk&no-frame=true&no-bg=true&row=2" height="150" alt="trophy graph" />
-</div>
