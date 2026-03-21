@@ -50,8 +50,8 @@
 <h2 align="left">🔭 Currently Working On:</h2>
 
 <p align="left">
-  - A Language Teaching AI Assistant<br>
-  - Investigating the Suitability of Vision and Language Models for Crop Disease Detection (Publication) 
+  - Agentic AI Marketing System<br>
+  - AI Consulting and Automation Services
 </p>
 
 ###
@@ -59,8 +59,8 @@
 <h2 align="left">🌱 Currently Learning:</h2>
 
 <p align="left">
-  - Reinforcement Learning for Foundational Generative AI<br>
-  - Agentic Generative AI Development
+  - AI Control and Safety <br>
+  - Multi-Agentic Generative AI Development using LangGraph
 </p>
 
 ###
