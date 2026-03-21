@@ -16,7 +16,11 @@
   <a href="https://huggingface.co/hamzamooraj99" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=yellow&logoColor=white&style=for-the-badge" height="25" alt="Hugging Face Logo" />
   </a>
+  <a href="https://hamzamooraj99.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail Logo" />
+  </a>
 </div>
+
 
 ###
 
