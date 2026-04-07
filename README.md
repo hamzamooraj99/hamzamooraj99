@@ -21,6 +21,24 @@
 
 ###
 
+<h2 align="left">🔭 Currently Working On:</h2>
+
+<p align="left">
+  - Multi-Agentic AI Marketing System<br>
+  - AI Consulting and Automation Services
+</p>
+
+###
+
+<h2 align="left">🌱 Currently Learning:</h2>
+
+<p align="left">
+  - AI Control and Safety <br>
+  - Multi-Agentic Generative AI Development using LangGraph
+</p>
+
+###
+
 <h3 align="left">🛠 Language and Tools</h3>
 
 ###
@@ -45,23 +63,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code Logo" />
 </div>
-
-###
-
-<h2 align="left">🔭 Currently Working On:</h2>
-
-<p align="left">
-  - Agentic AI Marketing System<br>
-  - AI Consulting and Automation Services
-</p>
-
-###
-
-<h2 align="left">🌱 Currently Learning:</h2>
-
-<p align="left">
-  - AI Control and Safety <br>
-  - Multi-Agentic Generative AI Development using LangGraph
-</p>
 
 ###
