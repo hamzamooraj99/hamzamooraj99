@@ -18,8 +18,11 @@
   </a>
 </div>
 
-
 ###
+
+<p align="left">
+  I’m an ML engineer and AI researcher interested in how multimodal and agentic systems behave, fail, and can be made more reliable in real-world settings. I graduated from Heriot-Watt University in 2025 with First-Class Honours in BSc Computer Science (Artificial Intelligence).
+</p>
 
 <h2 align="left">🔭 Currently Working On:</h2>
 
